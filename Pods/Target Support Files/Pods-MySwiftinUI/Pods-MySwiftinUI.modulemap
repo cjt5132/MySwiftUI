@@ -1,0 +1,6 @@
+framework module Pods_MySwiftinUI {
+  umbrella header "Pods-MySwiftinUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
